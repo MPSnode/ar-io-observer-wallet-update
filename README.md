@@ -29,6 +29,9 @@ $ nano update-gateway-settings.ts
 
 ### 2. BOTH
 
+then run the following command
 ```bash
-$ cd ..
+$ yarn ts-node tools/update-gateway-settings.ts
 ```
+
+
