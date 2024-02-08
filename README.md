@@ -54,7 +54,7 @@ https://viewblock.io/arweave/tx/
 
 **If it looks like below, then everything worked, and you can continue your sleep.**
 
-<img src="images/4.jpg">
+<img src="images/6.jpg">
 
 
 
