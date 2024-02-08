@@ -11,3 +11,5 @@ $ nano update-gateway-settings.ts
 ```
 
 <img src="images/1.jpg">
+
+**change the part I marked, remove the "//", or you can match the photo I marked above.**
