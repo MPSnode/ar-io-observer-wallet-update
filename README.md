@@ -34,4 +34,19 @@ then run the following command
 $ yarn ts-node tools/update-gateway-settings.ts
 ```
 
+IF SUCCESSFUL, there will be info as below.
+<img src="images/3.jpg">
+
+
+### 1. THIRD
+VISIT THE FOLLOWING LINK:
+#https://viewblock.io/arweave/tx/
+
+
+
+
+
+
+
+
 
