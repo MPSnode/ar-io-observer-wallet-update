@@ -3,10 +3,13 @@ how to renew testnet-contract ar-io ?
 
 
 ## Let's start
-### 1. update-gateway-settings.ts
+### 1. FIRST
 
 ```bash
-$ cd ar-io-node/testnet-contract/tools
+$ cd testnet-contract
+```
+```bash
+$ cd tools
 ```
 copy the next command
 
@@ -21,4 +24,11 @@ $ nano update-gateway-settings.ts
 
 <img src="images/2.jpg">
 
+**SETELAH SELESAI, CTRL + X, LALU TEKAN ENTER**
 
+
+### 2. BOTH
+
+```bash
+$ cd ..
+```
