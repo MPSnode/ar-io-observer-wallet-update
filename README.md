@@ -39,8 +39,16 @@ IF SUCCESSFUL, there will be info as below.
 
 
 ### 1. THIRD
+
 VISIT THE FOLLOWING LINK:
-#https://viewblock.io/arweave/tx/
+
+https://viewblock.io/arweave/tx/
+
+
+
+**FOLLOW THE PICTURE BELOW:**
+
+<img src="images/3.jpg">
 
 
 
