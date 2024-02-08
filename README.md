@@ -38,7 +38,7 @@ IF SUCCESSFUL, there will be info as below.
 <img src="images/3.jpg">
 
 
-### 1. THIRD
+### 3. THIRD
 
 VISIT THE FOLLOWING LINK:
 
@@ -46,12 +46,15 @@ https://viewblock.io/arweave/tx/
 
 
 
-**FOLLOW THE PICTURE BELOW:**
+**enter the TX ID you got earlier in the place I marked in the image below.**
 
 <img src="images/5.jpg">
 
 
 
+**If it looks like below, then everything worked, and you can continue your sleep.**
+
+<img src="images/5.jpg">
 
 
 
